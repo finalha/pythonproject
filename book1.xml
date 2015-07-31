@@ -1,0 +1,6 @@
+<PurchaseOrder>
+  <account refnum="2390094" />
+  <item qty="4" sku="33-993933" />
+  <name>Potato Smasher</name>
+  <description>Smash Potatoes like never before.</description>
+</PurchaseOrder>
